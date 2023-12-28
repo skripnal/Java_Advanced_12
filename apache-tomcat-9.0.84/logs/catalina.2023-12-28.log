@@ -1,0 +1,142 @@
+28-Dec-2023 15:26:09.044 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.84
+28-Dec-2023 15:26:09.044 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 7 2023 19:27:40 UTC
+28-Dec-2023 15:26:09.044 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.84.0
+28-Dec-2023 15:26:09.044 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+28-Dec-2023 15:26:09.044 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+28-Dec-2023 15:26:09.044 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+28-Dec-2023 15:26:09.044 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre-1.8
+28-Dec-2023 15:26:09.044 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_371-b11
+28-Dec-2023 15:26:09.052 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+28-Dec-2023 15:26:09.052 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84
+28-Dec-2023 15:26:09.052 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84
+28-Dec-2023 15:26:09.052 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\conf\logging.properties
+28-Dec-2023 15:26:09.052 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+28-Dec-2023 15:26:09.052 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+28-Dec-2023 15:26:09.052 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+28-Dec-2023 15:26:09.052 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+28-Dec-2023 15:26:09.052 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84
+28-Dec-2023 15:26:09.057 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84
+28-Dec-2023 15:26:09.057 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\temp
+28-Dec-2023 15:26:09.062 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+28-Dec-2023 15:26:09.062 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+28-Dec-2023 15:26:09.062 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+28-Dec-2023 15:26:09.071 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+28-Dec-2023 15:26:09.549 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+28-Dec-2023 15:26:09.574 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [804] milliseconds
+28-Dec-2023 15:26:09.631 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+28-Dec-2023 15:26:09.631 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.84]
+28-Dec-2023 15:26:09.664 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\Java_Advanced_12.war]
+28-Dec-2023 15:26:10.266 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [220] milliseconds.
+28-Dec-2023 15:26:10.291 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\Java_Advanced_12.war] has finished in [627] ms
+28-Dec-2023 15:26:10.299 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\docs]
+28-Dec-2023 15:26:10.357 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\docs] has finished in [58] ms
+28-Dec-2023 15:26:10.357 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\examples]
+28-Dec-2023 15:26:10.787 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\examples] has finished in [430] ms
+28-Dec-2023 15:26:10.787 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\host-manager]
+28-Dec-2023 15:26:10.859 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\host-manager] has finished in [72] ms
+28-Dec-2023 15:26:10.859 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\manager]
+28-Dec-2023 15:26:10.899 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\manager] has finished in [40] ms
+28-Dec-2023 15:26:10.899 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\ROOT]
+28-Dec-2023 15:26:10.929 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\ROOT] has finished in [30] ms
+28-Dec-2023 15:26:10.932 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+28-Dec-2023 15:26:10.949 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1374] milliseconds
+28-Dec-2023 15:27:29.838 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+28-Dec-2023 15:27:29.838 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+28-Dec-2023 15:27:30.020 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+28-Dec-2023 15:27:30.064 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+28-Dec-2023 15:27:30.086 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+28-Dec-2023 15:27:38.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.84
+28-Dec-2023 15:27:38.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 7 2023 19:27:40 UTC
+28-Dec-2023 15:27:38.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.84.0
+28-Dec-2023 15:27:38.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+28-Dec-2023 15:27:38.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+28-Dec-2023 15:27:38.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+28-Dec-2023 15:27:38.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre-1.8
+28-Dec-2023 15:27:38.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_371-b11
+28-Dec-2023 15:27:38.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+28-Dec-2023 15:27:38.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84
+28-Dec-2023 15:27:38.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84
+28-Dec-2023 15:27:38.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\conf\logging.properties
+28-Dec-2023 15:27:38.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+28-Dec-2023 15:27:38.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+28-Dec-2023 15:27:38.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+28-Dec-2023 15:27:38.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+28-Dec-2023 15:27:38.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84
+28-Dec-2023 15:27:38.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84
+28-Dec-2023 15:27:38.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\temp
+28-Dec-2023 15:27:38.831 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+28-Dec-2023 15:27:38.847 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+28-Dec-2023 15:27:38.847 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+28-Dec-2023 15:27:38.847 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+28-Dec-2023 15:27:39.349 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+28-Dec-2023 15:27:39.384 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [822] milliseconds
+28-Dec-2023 15:27:39.434 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+28-Dec-2023 15:27:39.434 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.84]
+28-Dec-2023 15:27:39.468 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\Java_Advanced_12.war]
+28-Dec-2023 15:27:40.024 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [228] milliseconds.
+28-Dec-2023 15:27:40.109 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\Java_Advanced_12.war] has finished in [642] ms
+28-Dec-2023 15:27:40.109 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\docs]
+28-Dec-2023 15:27:40.165 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\docs] has finished in [56] ms
+28-Dec-2023 15:27:40.165 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\examples]
+28-Dec-2023 15:27:40.619 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\examples] has finished in [454] ms
+28-Dec-2023 15:27:40.619 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\host-manager]
+28-Dec-2023 15:27:40.675 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\host-manager] has finished in [56] ms
+28-Dec-2023 15:27:40.675 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\manager]
+28-Dec-2023 15:27:40.707 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\manager] has finished in [32] ms
+28-Dec-2023 15:27:40.707 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\ROOT]
+28-Dec-2023 15:27:40.747 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\ROOT] has finished in [40] ms
+28-Dec-2023 15:27:40.751 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+28-Dec-2023 15:27:40.768 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1384] milliseconds
+28-Dec-2023 15:28:12.838 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+28-Dec-2023 15:28:12.839 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+28-Dec-2023 15:28:13.025 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+28-Dec-2023 15:28:13.056 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+28-Dec-2023 15:28:13.070 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+28-Dec-2023 15:28:41.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.84
+28-Dec-2023 15:28:41.967 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 7 2023 19:27:40 UTC
+28-Dec-2023 15:28:41.968 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.84.0
+28-Dec-2023 15:28:41.968 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+28-Dec-2023 15:28:41.968 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+28-Dec-2023 15:28:41.969 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+28-Dec-2023 15:28:41.969 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre-1.8
+28-Dec-2023 15:28:41.969 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_371-b11
+28-Dec-2023 15:28:41.969 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+28-Dec-2023 15:28:41.969 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84
+28-Dec-2023 15:28:41.970 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84
+28-Dec-2023 15:28:41.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\conf\logging.properties
+28-Dec-2023 15:28:41.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+28-Dec-2023 15:28:41.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+28-Dec-2023 15:28:41.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+28-Dec-2023 15:28:41.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+28-Dec-2023 15:28:41.973 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84
+28-Dec-2023 15:28:41.973 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84
+28-Dec-2023 15:28:41.974 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\temp
+28-Dec-2023 15:28:41.980 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+28-Dec-2023 15:28:41.980 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+28-Dec-2023 15:28:41.981 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+28-Dec-2023 15:28:41.991 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+28-Dec-2023 15:28:42.479 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+28-Dec-2023 15:28:42.506 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [817] milliseconds
+28-Dec-2023 15:28:42.554 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+28-Dec-2023 15:28:42.555 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.84]
+28-Dec-2023 15:28:42.582 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\Java_Advanced_12.war]
+28-Dec-2023 15:28:42.619 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\Java_Advanced_12] was found with a last modified time that did not match the associated WAR. It will be deleted.
+28-Dec-2023 15:28:43.188 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [198] milliseconds.
+28-Dec-2023 15:28:43.242 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\Java_Advanced_12.war] has finished in [660] ms
+28-Dec-2023 15:28:43.244 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\docs]
+28-Dec-2023 15:28:43.310 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\docs] has finished in [66] ms
+28-Dec-2023 15:28:43.310 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\examples]
+28-Dec-2023 15:28:43.757 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\examples] has finished in [447] ms
+28-Dec-2023 15:28:43.758 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\host-manager]
+28-Dec-2023 15:28:43.798 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\host-manager] has finished in [40] ms
+28-Dec-2023 15:28:43.800 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\manager]
+28-Dec-2023 15:28:43.838 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\manager] has finished in [39] ms
+28-Dec-2023 15:28:43.838 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\ROOT]
+28-Dec-2023 15:28:43.864 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\skrip\IdeaProjects\Java_Advanced_12_Maven\apache-tomcat-9.0.84\webapps\ROOT] has finished in [25] ms
+28-Dec-2023 15:28:43.867 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+28-Dec-2023 15:28:43.885 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1378] milliseconds
+28-Dec-2023 15:29:08.429 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+28-Dec-2023 15:29:08.430 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+28-Dec-2023 15:29:08.617 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+28-Dec-2023 15:29:08.650 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+28-Dec-2023 15:29:08.657 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
